@@ -1,0 +1,14 @@
+[
+    {
+        "subject": "2",
+        "topic": "2",
+        "date": "12th/10/2026",
+        "duration": 20.0
+    },
+    {
+        "subject": "programing fundamentals",
+        "topic": "individual assignment",
+        "date": "4th/sep/2026",
+        "duration": 60.0
+    }
+]
